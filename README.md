@@ -1,3 +1,8 @@
+
+Fork from [https://bitbucket.org/nightstomp/cordova-plugin-googlemaps-sdk.git](https://bitbucket.org/nightstomp/cordova-plugin-googlemaps-sdk.git)
+
+Use [Git Large File Storage](https://git-lfs.github.com/) to storage GooleMaps file.
+
 GoogleMaps for iOS SDK (Cordova)
 ===============================
 This plugin just installs Google Maps SDK for iOS to your project.
